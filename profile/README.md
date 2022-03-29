@@ -4,10 +4,7 @@
 
 * [docs](https://crypto-excellence.gitbook.io/crypto-excellence-dao-documentation/)
 
-## Repositories
-
-* Coming Soon!
-
 ## Links
 
-* Coming Soon!
+* [app](https://app.cryptoexcellence.xyz/)
+* [org](https://www.cryptoexcellence.xyz/)
